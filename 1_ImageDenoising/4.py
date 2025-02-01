@@ -1,6 +1,6 @@
+import matplotlib.pyplot as plt
 import numpy as np
 from h5py import File as h5pyFile
-import matplotlib.pyplot as plt
 
 # Load image from the .mat file
 file_path = "1_ImageDenoising/data/assignmentImageDenoising_chestCT.mat"
